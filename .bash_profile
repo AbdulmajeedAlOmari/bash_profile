@@ -9,9 +9,10 @@ alias subl="'c:/program files/sublime text 3/subl.exe'"
 # ----------------------
 # Paths Aliases
 # ----------------------
-alias Projects="cd C:/Users/Abdulmajeed/Desktop/Projects"
+alias Projects="cd C:/Users/Abdulmajeed/Desktop/Files/Projects"
 alias Python="cd C:/Users/Abdulmajeed/Desktop/Files/Learning/PythonLearning"
 alias Learning="cd C:/Users/Abdulmajeed/Desktop/Files/Learning"
+alias ProgrammingEnv="cd C:/Users/Abdulmajeed/Desktop/Files/Programming\ enviroment"
 
 # ----------------------
 # Git Aliases
